@@ -1,6 +1,6 @@
 ## web builder comparison
 
-Absolutely! Let's include Ghost in the comparison table alongside WordPress, Joomla, and Drupal. Ghost is particularly known for its focus on blogging and content publishing.
+a comparison of WordPress, Joomla, and Drupal can be made based on several key criteria. Here's a table that outlines the major differences and features of each:
 
 | **Criteria**              | **WordPress**                                             | **Joomla**                                              | **Drupal**                                             | **Ghost**                                               |
 |---------------------------|------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
