@@ -1,4 +1,4 @@
-## web builder comparison
+## Website builder comparison
 
 a comparison of WordPress, Joomla, and Drupal can be made based on several key criteria. Here's a table that outlines the major differences and features of each:
 
